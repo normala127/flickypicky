@@ -8,3 +8,11 @@ Key areas of work:
 - Implementation of simple recommendation queries
 
 The project was completed as a learning and academic exercise.
+
+## Skills & Tools Demonstrated
+
+- Neo4j (graph databases, Cypher queries)
+- Graph-based recommendation systems
+- Python for data preparation and ingestion
+- Basic data modeling and exploratory analysis
+- Working with real-world datasets
